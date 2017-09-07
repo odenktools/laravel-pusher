@@ -1,0 +1,3 @@
+[submodule "packages/caffeinated"]
+	path = packages/caffeinated
+	url = https://github.com/caffeinated/menus.git

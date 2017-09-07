@@ -1,2 +1,3 @@
-# laravel-pusher
-Sample Chatting App Using Pusher And Laravel Framework
+# Realtime Laravel 5.3.x Using Pusher
+
+Work in progress... Please wait
