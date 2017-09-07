@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #666666;
+    font-weight: 300;
+    font-family: 'Roboto';
+    background-color: #F9F9F9;
+}
+
+a {
+    font-weight: 300;
+    color: #72B963;
+}
+
+.members-wrap {
+    position: relative;
+    width: 100%;
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    height: 10vh;
+}
+
+.members-wrap ul {
+    margin: 0;
+    padding: 0;
+}
+
+.members-wrap ul>li {
+    list-style: none;
+    padding: 2px;
+    border-bottom: 1px solid #EEEEEE;
+}
+
+.members-wrap ul>li:nth-child(odd) {
+    background: #F6F5F6;
+}
+
+.members-messages {
+    height: 10vh;
+    overflow-y: scroll;
+}
+
+.msg-wrap {
+    position: relative;
+    width: 100%;
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    height: 60vh;
+}
+
+.msg-wrap ul {
+    margin: 0;
+    padding: 0;
+}
+
+.msg-wrap ul>li {
+    list-style: none;
+    padding: 5px;
+    border-bottom: 1px solid #EEEEEE;
+}
+
+.msg-wrap ul>li:nth-child(odd) {
+    background: #F6F5F6;
+}
+
+.messages {
+    height: 60vh;
+    overflow-y: scroll;
+}
+
+.btn-primary-spacing {
+    margin-right: 10px;
+    margin-bottom: 5px !important;
+}
